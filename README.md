@@ -1,4 +1,4 @@
-# Area-Of-Overlapping-Squares-
+# Area-Of-Overlapping-Rectangles-
 
 
 This function allows the calculation of the sum of the area of overlapping rectangles.
